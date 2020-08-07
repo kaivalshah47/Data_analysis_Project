@@ -9,5 +9,6 @@ I want to give credit to the codebasics and team.
 (https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights).
 
 
-
+Mobile Layout :
+![](Data_analysis_Project/blob/master/Mobile_layout_powerbi.jpg)
 
